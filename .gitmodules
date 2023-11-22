@@ -1,0 +1,6 @@
+[submodule "AccountBook-FE"]
+	path = AccountBook-FE
+	url = https://github.com/shinsoonho/AccountBook-FE.git
+[submodule "AccountBook-BE"]
+	path = AccountBook-BE
+	url = https://github.com/shinsoonho/AccountBook-BE.git
