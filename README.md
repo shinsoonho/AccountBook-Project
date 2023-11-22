@@ -1,12 +1,10 @@
 # AccountBook-Project
----
+
 **backEnd**와 **FrontEnd** 서브모듈
-> AccountBook-BE - Springboot JPA
+> AccountBook-BE - Springboot JPA <br>
 > AccountBook-FE - Vue.js
 
-<br>
-
-#### 서브모듈 최신상태 업데이트
+### 서브모듈 최신상태 업데이트
 
 1: 서브모듈 디렉토리로 이동
 ```sh
